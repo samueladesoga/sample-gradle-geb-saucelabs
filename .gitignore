@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+samuel-adesoga.iml
+/build/**
+/target/**
+/out/**
+/project/target/**
+/project/project/**
+.gradle
